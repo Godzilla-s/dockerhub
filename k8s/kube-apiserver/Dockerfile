@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.18.4
+FROM k8s.gcr.io/kube-apiserver:v1.19.11
 MAINTAINER 472214158@qq.com
