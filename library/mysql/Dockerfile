@@ -1,2 +1,4 @@
 FROM mysql/mysql-server:8.0.25
-MAINTAINER 472214158@qq.com
+
+LABEL Author="zhuweijin"
+LABEL Email="472214158@qq.com"
